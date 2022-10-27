@@ -17,7 +17,7 @@ Feature: Etsy Title Verification
       And user clicks search button
       Then user sees Wooden Spoon is in the title
 
-  @wip
+
   Scenario:
   //Given User is on "https://www.etsy.com" website
     When user types "Wooden Spoon" in the search box
